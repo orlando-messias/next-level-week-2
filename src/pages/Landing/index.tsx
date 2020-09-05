@@ -10,8 +10,8 @@ import { Link } from 'react-router-dom';
 function Landing() {
   return (
     <div id="page-landing">
-      <div id="landing-content" className="container">
-        <div id="logo-container">
+      <div id="page-landing-content" className="container">
+        <div className="logo-container">
           <img src={logoImg} alt="Proffy" />
           <h2>Sua Plataforma de Estudos Online</h2>
         </div>
