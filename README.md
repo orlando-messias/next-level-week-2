@@ -1,1 +1,1 @@
-![Proffy](assets/images/icons/logo.svg)
+![Proffy](src/assets/images/icons/logo.svg)
