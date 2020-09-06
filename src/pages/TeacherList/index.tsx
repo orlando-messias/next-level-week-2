@@ -1,6 +1,7 @@
 import React from 'react';
 import PageHeader from '../PageHeader';
 import './teacherListStyles.css';
+import TeacherItem from '../../components/TeacherItem';
 
 function TeacherList() {
   return (
@@ -27,7 +28,7 @@ function TeacherList() {
       </PageHeader>
 
       <main>
-
+        <TeacherItem />
       </main>
 
     </div>
