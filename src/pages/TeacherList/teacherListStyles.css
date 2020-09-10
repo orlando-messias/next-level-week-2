@@ -29,7 +29,8 @@
     bottom: -28px;
   }
 
-  #search-teachers .input-block + .input-block {  /* todo input-block que tem outro input-block depois dele */
+  #search-teachers .input-block + .input-block,  /* todo input-block que tem outro input-block depois dele */
+  #search-teachers .select-block + .select-block {  /* todo input-block que tem outro input-block depois dele */
     margin-top: 0;
   }
 
