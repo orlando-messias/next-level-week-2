@@ -15,3 +15,22 @@ Tencologias utilizadas:
 - SQLite
 - Knex.js
 
+```
+## Clone o repositório usando git
+git clone https://github.com/orlando-messias/plataforma-estudos-online.git
+
+## Na raiz do projeto, instale as dependências frontend
+yarn ou npm install
+
+## Abra a pasta server, instale as dependências backend
+cd server
+yarn ou npm install
+
+## Crie as tabelas no banco de dados
+cd server 
+yarn knex:migrate
+
+## Inicialize o node
+cd server
+npm start
+```
