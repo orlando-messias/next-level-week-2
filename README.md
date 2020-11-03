@@ -5,6 +5,10 @@
   <img alt="Proffy" src="/src/assets/images/layout02.png">
 </p>
 
+## Plataforma de Estudos Online
+
+#### :computer: Projeto com NodeJS, Express, Typescript  :computer:
+
 Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiência online para evoluir suas habilidades em programação e te elevar para o próximo nível.
 
 Tencologias utilizadas:
