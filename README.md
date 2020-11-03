@@ -5,10 +5,13 @@
   <img alt="Proffy" src="/src/assets/images/layout02.png">
 </p>
 
-Aplicação desenvolvida durante o evento NLW (Next Level Week) :rocket
+Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiência online para evoluir suas habilidades em programação e te elevar para o próximo nível.
 
-Tencologias:
+Tencologias utilizadas:
 - React
 - Nodejs
 - Typescript
 - Express
+- SQLite
+- Knex.js
+
