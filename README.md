@@ -19,7 +19,7 @@ Proffy é uma plataforma de estudos online que conecta estudantes a professores 
 2. *Cadastrar nova Aula*
 <p align="center"><img src="src/assets/images/register-class.png"></p>
 
-Tencologias utilizadas:
+:hammer_and_wrench: **Tencologias utilizadas:**
 - React
 - Nodejs
 - Typescript
@@ -32,17 +32,18 @@ Tencologias utilizadas:
 git clone https://github.com/orlando-messias/plataforma-estudos-online.git
 
 ## Na raiz do projeto, instale as dependências frontend
-yarn ou npm install
+yarn install ou npm install
+
+## Inicialize a aplicação
+yarn start ou npm start
 
 ## Abra a pasta server, instale as dependências backend
 cd server
-yarn ou npm install
+yarn install ou npm install
 
-## Crie as tabelas no banco de dados
-cd server 
+## Rode o knew para criar as tabelas no banco de dados
 yarn knex:migrate
 
 ## Inicialize o node
-cd server
 npm start
 ```
