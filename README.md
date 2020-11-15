@@ -9,7 +9,7 @@
 
 #### :computer: Projeto com NodeJS, Express, Typescript  :computer:
 
-Aplicação desenvolvida durante o evento NLW (Next Level Week): uma experiência online para evoluir suas habilidades em programação e te elevar para o próximo nível.
+Proffy é uma plataforma de estudos online que conecta estudantes a professores de acordo com suas disponibilidades. Foi desenvolvida durante o evento **NLW (Next Level Week)**, uma experiência online para evoluir suas habilidades em programação e te elevar para o próximo nível.
 
 Tencologias utilizadas:
 - React
