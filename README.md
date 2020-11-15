@@ -11,6 +11,14 @@
 
 Proffy é uma plataforma de estudos online que conecta estudantes a professores de acordo com suas disponibilidades. Foi desenvolvida durante o evento **NLW (Next Level Week)**, uma experiência online para evoluir suas habilidades em programação e te elevar para o próximo nível.
 
+:camera: **Screenshots de telas**
+
+1. *Pesquisar por Professor*
+<p align="center"><img src="/images/seek-teacher.png"></p>
+
+2. *Cadastrar nova Aula*
+<p align="center"><img src="/images/register-class.png"></p>
+
 Tencologias utilizadas:
 - React
 - Nodejs
