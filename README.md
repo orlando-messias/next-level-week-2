@@ -16,7 +16,7 @@ Proffy é uma plataforma de estudos online que conecta estudantes a professores 
 - :mag: *Pesquisar por Professor*
 <p align="center"><img src="src/assets/images/seek-teacher.png"></p>
 
-2. *Cadastrar nova Aula*
+- :heavy_plus_sign: *Cadastrar nova Aula*
 <p align="center"><img src="src/assets/images/register-class.png"></p>
 
 :hammer_and_wrench: **Tencologias utilizadas:**
