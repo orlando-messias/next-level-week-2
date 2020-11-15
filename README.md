@@ -47,3 +47,5 @@ yarn knex:migrate
 ## Inicialize o node
 npm start
 ```
+#
+Desenvolvido por Orlando Messias [linkedin.com/in/orlando-messias-dev](https://www.linkedin.com/in/orlando-messias-dev)
